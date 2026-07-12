@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0143-reorder-list) |
+| [1021-remove-outermost-parentheses](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0371-sum-of-two-integers) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
