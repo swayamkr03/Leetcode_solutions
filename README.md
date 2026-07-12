@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -103,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
