@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
