@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
