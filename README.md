@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0178-rank-scores) |
 | [0607-sales-person](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0626-exchange-seats) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [3220-odd-and-even-transactions](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3220-odd-and-even-transactions) |
 ## Number Theory
 |  |
