@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0177-nth-highest-salary) |
+| [0626-exchange-seats](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0626-exchange-seats) |
 ## Number Theory
 |  |
 | ------- |
