@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0177-nth-highest-salary) |
+| [0607-sales-person](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0626-exchange-seats) |
 | [3220-odd-and-even-transactions](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3220-odd-and-even-transactions) |
 ## Number Theory
