@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0371-sum-of-two-integers) |
+| [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## String
 |  |
 | ------- |
@@ -135,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
+## Enumeration
+|  |
+| ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->
