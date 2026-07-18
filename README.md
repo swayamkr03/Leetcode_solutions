@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
