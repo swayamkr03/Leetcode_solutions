@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
