@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
