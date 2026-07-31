@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [1306-jump-game-iii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
@@ -130,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [1306-jump-game-iii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [1306-jump-game-iii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1306-jump-game-iii) |
 ## Union-Find
 |  |
 | ------- |
