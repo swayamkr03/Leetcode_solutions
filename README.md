@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0877-stone-game](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1306-jump-game-iii](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0877-stone-game) |
 | [2708-maximum-strength-of-a-group](https://github.com/swayamkr03/Leetcode_solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## Hash Table
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swayamkr03/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swayamkr03/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/swayamkr03/Leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
